@@ -1,0 +1,16 @@
+Cheese Sandwich, 001S, 2.50
+Grilled Cheese Sandwich, 002S, 3.00
+Pepsi Max, 001D, 0.80
+Fanta Orange, 002D, 0.80
+Lokum, 01DS, 0.75
+£ 7.85
+VAT Total:9.420
+
+Cheese Sandwich, 001S, 2.50
+Grilled Cheese Sandwich, 002S, 3.00
+Pepsi Max, 001D, 0.80
+Fanta Orange, 002D, 0.80
+Lokum, 01DS, 0.75
+£ 7.85
+VAT Total:9.420
+

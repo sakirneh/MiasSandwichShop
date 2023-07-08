@@ -1,0 +1,10 @@
+Cheese Sandwich, 001S, 2.50
+Fried Egg Sandwich, 002S, 2.50
+Grilled Cheese Sandwich, 003S, 3.00
+Grinder, 004S, 4.00
+Italian Sandwich, 005S, 3.00
+Jambon-Beurre, 006S, 3.50
+Texas Brisket Sandwich, 0010S, 3.50
+Mozzarella in Carrozza, 009S, 3.75
+Medianoche, 007S, 3.25
+Melt Sandwich, 008S, 2.50

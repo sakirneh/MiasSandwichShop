@@ -1,0 +1,7 @@
+Pepsi Max, 001D, 0.80
+Fanta Orange, 002D, 0.80
+Coco Cola Original, 003D, 0.75
+Harrogate Still Spring Water, 004D, 0.80
+Volvi Strawberry Flavoured Water, 005D, 1
+Dr Pepper, 006D, 0.70
+Monster Energy Drink, 007D, 1.50

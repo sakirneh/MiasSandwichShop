@@ -1,0 +1,5 @@
+Lokum, 01DS, 0.75
+Banana Bread, 02DS, 1
+Ice Cream Sandwich, 03DS, 1
+Cheesecake, 04DS, 1.50
+Jell-O, 05DS, 0.75
